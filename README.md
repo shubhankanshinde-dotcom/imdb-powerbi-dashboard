@@ -32,7 +32,33 @@ The dataset contains 1000 IMDb titles with attributes including:
 Data cleaning included handling missing values, formatting gross revenue, and standardizing categorical fields.
 
 ---
+## Dashboard Visual Insights
 
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_full.png)
+
+This overview highlights key IMDb movie metrics including ratings, revenue, genre distribution, and popularity trends.
+
+---
+
+### Genre Analysis
+![Genre Analysis](images/genre_table.png)
+
+The genre table visualizes the distribution of movies across genres, helping identify dominant categories and content trends.
+
+---
+
+### Rating Trend Analysis
+![Rating Trend](images/rating_trend.png)
+
+This visualization shows how IMDb ratings vary across different movie groups, revealing audience preference patterns.
+
+---
+
+### Certificate / KPI Breakdown
+![Certificate Breakdown](images/certificate_breakdown.png)
+
+The certificate breakdown explores content classification patterns, highlighting how movie ratings are distributed across certification categories.
 ### What I worked on
 
 * Data preparation and transformation in Power BI
@@ -64,3 +90,4 @@ Data cleaning included handling missing values, formatting gross revenue, and st
 ### Timeline
 
 Developed as part of **Business Analytics & Intelligence coursework (2025)**.
+
